@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\bin\Release\DNBSNGUI.exe
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\bin\Release\DNBSNGUI.pdb
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\MainWindow.baml
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\MainWindow.g.cs
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\App.g.cs
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\DNBSNGUI_MarkupCompile.cache
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\DNBSNGUI.g.resources
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\DNBSNGUI.Properties.Resources.resources
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\DNBSNGUI.exe
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNGUI\obj\x86\Release\DNBSNGUI.pdb

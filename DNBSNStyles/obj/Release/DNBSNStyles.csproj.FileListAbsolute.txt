@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\bin\Release\DNBSNStyles.dll
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\bin\Release\DNBSNStyles.pdb
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\ControlStyle.baml
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\DNBSNStyles_MarkupCompile.cache
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\DNBSNStyles.g.resources
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\DNBSNStyles.dll
+C:\Users\USER\Desktop\Updating\DNBSN 16-08-2012\DNBSNStyles\obj\Release\DNBSNStyles.pdb
